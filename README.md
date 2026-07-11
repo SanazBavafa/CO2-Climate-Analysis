@@ -31,12 +31,15 @@ Source: https://data.giss.nasa.gov/gistemp/
 - Emissions and temperatures rose slowly before 1950 and much more rapidly afterward, suggesting population growth alone does not explain warming — energy consumption and industrialization play a major role
 
 ## Project Structure
+
+```
 CO2-Climate-Analysis/
 ├── README.md
 ├── Notebooks/
 │   └── CO2-Emissions-and-Global-Temperature.ipynb
 ├── slides/
 │   └── CO2-GitHub-ppt.pdf
+```
 
 ## Tools and Libraries
 - Python
