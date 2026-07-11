@@ -34,10 +34,11 @@ Source: https://data.giss.nasa.gov/gistemp/
 CO2-Climate-Analysis/
 ├── README.md
 ├── Notebooks
-│ └── CO2 Emissions and Global Temperature.ipynb
+│   └── CO2 Emissions and Global Temperature.ipynb
 ├── slides/
-│ └── CO2-GitHub-ppt.pdf
-
+│   └── CO2-GitHub-ppt.PDF
+└── data/
+    └── (دیتاست‌ها، اگر می‌خواهید آپلود کنید)
 
 ## Tools and Libraries
 - Python
