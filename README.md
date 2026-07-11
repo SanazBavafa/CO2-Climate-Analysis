@@ -35,7 +35,7 @@ Source: https://data.giss.nasa.gov/gistemp/
 ```
 CO2-Climate-Analysis/
 ├── README.md
-├── Notebooks/
+├── notebooks/
 │   └── CO2-Emissions-and-Global-Temperature.ipynb
 ├── slides/
 │   └── CO2-GitHub-ppt.pdf
